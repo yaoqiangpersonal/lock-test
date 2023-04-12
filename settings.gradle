@@ -1,0 +1,2 @@
+rootProject.name = 'lock-test'
+include 'producer','consumer_one','consumer_two'
